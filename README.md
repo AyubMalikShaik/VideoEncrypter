@@ -1,1 +1,1 @@
-Video Encrypeter and Decrypter - Pixel based
+Video Encrypeter and Decrypter - Pixel based Encrypting
