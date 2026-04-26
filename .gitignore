@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+data/frames/
+data/output.mp4
+data/input.mp4
